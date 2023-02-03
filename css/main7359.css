@@ -278,3 +278,10 @@ footer a:not(.nav-link) {
 .bg-primary {
   background-color: #4169e1 !important;
 }
+.bg-gradient {
+  background-image: linear-gradient(
+    to left,
+    #accbee 0%,
+    #4169e1 80%
+  ) !important;
+}
